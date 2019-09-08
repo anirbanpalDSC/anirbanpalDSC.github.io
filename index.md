@@ -34,15 +34,21 @@
 ---
 ## Fifa 2019 EDA
 
-[Fifa 2019 EDA](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
+[Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
 
-#### [Repository Link](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
+#### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
 ---
 ## Data Visualization
 
-[Data Visualization](https://github.com/anirbanpalDSC/Data-Visualizations/)
+[Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
-#### [Repository Link](https://anirbanpaldsc.github.io/Data-Visualizations/)
+#### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
+---
+## LA Bike Share Model
+
+[Data Visualization](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
+
+#### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
