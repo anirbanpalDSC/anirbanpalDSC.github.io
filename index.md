@@ -28,9 +28,9 @@
 ---
 ## Neural Network Classifier
 
-[Neural Network Classifier](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
+[Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
 
-#### [Repository Link](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
+#### [Repository Link](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
 ---
 ## Fifa 2019 EDA
 
