@@ -25,8 +25,6 @@
 [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
-
-#### This project will be extended to other specialized chart types in future.
 ---
 ## Neural Network Classifier
 
