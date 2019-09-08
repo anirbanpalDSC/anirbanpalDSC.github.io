@@ -26,13 +26,19 @@
 
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
 
-This project will be extended to specialized chart types in future.
+#### This project will be extended to other specialized chart types in future.
 ---
 ## Neural Network Classifier
 
 [Neural Network Classifier](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
 
 #### [Repository Link](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
+---
+## Fifa 2019 EDA
+
+[Fifa 2019 EDA](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
+
+#### [Repository Link](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
 
 
 ---
