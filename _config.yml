@@ -3,9 +3,7 @@ logo: # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   GitHub portfolio to showcase my analytics and data science related work. 
   <br><br>
-  <a href="https://www.linkedin.com/in/anirban-pal">LinkedIn Profile</a>
-  <br><br>
-  <!–– <a href="https://github.com/anirbanpalDSC">GitHub Profile</a>––>
+  <a href="https://www.linkedin.com/in/anirban-pal">View my LinkedIn Profile</a>
   
  
 theme: jekyll-theme-minimal
