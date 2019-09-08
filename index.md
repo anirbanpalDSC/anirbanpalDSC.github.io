@@ -27,6 +27,13 @@
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
 
 This project will be extended to specialized chart types in future.
+---
+## Neural Network Classifier
+
+[Neural Network Classifier](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
+
+#### [Repository Link](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
+
 
 ---
 <!-- Remove above link if you don't want to attibute -->
