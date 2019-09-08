@@ -37,7 +37,12 @@
 [Fifa 2019 EDA](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
 
 #### [Repository Link](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
+---
+## Data Visualization
 
+[Data Visualization](https://github.com/anirbanpalDSC/Data-Visualizations/)
+
+#### [Repository Link](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
