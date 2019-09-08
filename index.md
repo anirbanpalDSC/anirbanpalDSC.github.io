@@ -55,6 +55,12 @@
 [Data Visualization](https://anirbanpaldsc.github.io/connectR/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
+---
+## Exploratory-Data-Analysis
+
+[Data Visualization](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
+
+#### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis-DSC530/)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
