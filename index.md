@@ -49,6 +49,12 @@
 [Data Visualization](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
+---
+## connectR
+
+[Data Visualization](https://anirbanpaldsc.github.io/connectR/)
+
+#### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
