@@ -2,15 +2,16 @@
 
 ---
 
-### Retail Sales Prediction 
+### Retail 
 
 [Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Recomendation Engine
 
+[Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
+
+[Repository Link](https://github.com/anirbanpalDSC/Flight-Delay-Prediction)
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
