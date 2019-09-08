@@ -4,10 +4,8 @@
 
 ### Retail Sales Prediction 
 
-[Bigmart Product Sales Prediction](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
-<a href="https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/">View My GitHub Profile</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
