@@ -12,6 +12,8 @@
 ---
 ## Recomendation Engine
 
+![Movie](images/Movie.jpg)
+
 [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Movie-Recommendation-Engine)
