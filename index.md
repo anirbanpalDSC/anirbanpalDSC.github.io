@@ -2,25 +2,19 @@
 
 ---
 
-## Retail Sales Prediction 
+## [Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
 ![BigMart](images/BigMart.jpg)
 
-[Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
-
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 ---
-## Recomendation Engine
+## [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
 
 ![Movie](images/Movie.jpg)
 
-[Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
-
 #### [Repository Link](https://github.com/anirbanpalDSC/Movie-Recommendation-Engine)
 ---
-## Flight Delay Prediction
-
-[Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
+## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Flight-Delay-Prediction)
 ---
