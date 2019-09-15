@@ -4,7 +4,7 @@
 
 ## [Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
-![BigMart](images/BigMart.jpg)
+<img src="images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="200" height="200" />
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 ---
