@@ -18,45 +18,31 @@
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Flight-Delay-Prediction)
 ---
-## R Bullet Chart
-
-[R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
+## [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
 ---
-## Neural Network Classifier
-
-[Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
+## [Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
 ---
-## Fifa 2019 EDA
-
-[Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
+## [Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
 ---
-## Data Visualization
-
-[Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
+## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
 ---
-## LA Bike Share Model
-
-[Data Visualization](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
+## [LA Bike Share Model](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
 ---
-## connectR
-
-[Data Visualization](https://anirbanpaldsc.github.io/connectR/)
+## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
 ---
-## Exploratory-Data-Analysis
-
-[Data Visualization](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
+## [Exploratory-Data-Analysis](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis-DSC530/)
 
