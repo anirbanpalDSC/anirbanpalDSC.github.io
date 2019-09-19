@@ -32,7 +32,7 @@
 ---
 ## [Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
 
-<img src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="200" height="200" />
+<img src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
 ---
