@@ -16,6 +16,8 @@
 ---
 ## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
 
+<img src="images/Flight delay.png" data-canonical-src="images/Flight delay.png" width="200" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/Flight-Delay-Prediction)
 ---
 ## [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
