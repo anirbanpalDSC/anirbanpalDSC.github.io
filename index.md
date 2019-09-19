@@ -50,7 +50,7 @@
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
-<img src="images/connectR.png" data-canonical-src="images/connectR.png" width="300" height="200" />
+<img src="images/ConnectR.png" data-canonical-src="images/ConnectR.png" width="300" height="200" />
 
 #### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
 ---
