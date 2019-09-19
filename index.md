@@ -40,6 +40,8 @@
 ---
 ## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
+<img src="images/viz.jpg" data-canonical-src="images/viz.jpg" width="400" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
 ---
 ## [LA Bike Share Model](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
