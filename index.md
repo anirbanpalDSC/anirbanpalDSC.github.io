@@ -40,7 +40,7 @@
 ---
 ## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
-<img src="images/viz.jpg" data-canonical-src="images/viz.jpg" width="400" height="200" />
+<img src="images/viz.jpg" data-canonical-src="images/viz.jpg" width="400" height="230" />
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
 ---
