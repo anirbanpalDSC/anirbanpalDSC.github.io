@@ -42,6 +42,8 @@
 ---
 ## [LA Bike Share Model](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
 
+<img src="images/Metro Bike Share.png" data-canonical-src="images/Metro Bike Share.png" width="400" height="120" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
