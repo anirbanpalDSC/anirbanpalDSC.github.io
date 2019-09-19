@@ -52,6 +52,8 @@
 ---
 ## [Exploratory-Data-Analysis](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
 
+<img src="images/EDA.png" data-canonical-src="images/EDA.png" width="200" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis-DSC530/)
 
 ---
