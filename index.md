@@ -22,6 +22,8 @@
 ---
 ## [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
 
+<img src="images/Bullet graph.png" data-canonical-src="images/Bullet graph.png" width="400" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
 ---
 ## [Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
