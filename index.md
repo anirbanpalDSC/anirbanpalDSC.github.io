@@ -28,6 +28,8 @@
 ---
 ## [Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
 
+<img src="images/Nural Network.png" data-canonical-src="images/Nural Network.png" width="275" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
 ---
 ## [Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
