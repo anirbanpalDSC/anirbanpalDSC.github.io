@@ -50,6 +50,8 @@
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
+<img src="images/connectR.png" data-canonical-src="images/connectR.png" width="300" height="200" />
+
 #### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
 ---
 ## [Exploratory-Data-Analysis](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
