@@ -4,8 +4,8 @@
 
 ## [Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
-<img src="images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="200" height="200" />
-
+<img align="left" src="images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="200" height="200" /> This project relates to retail domain and basically is a machine learning model to find out factors significant for product sales.
+<br><br><br><br><br><br><br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 ---
 ## [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
