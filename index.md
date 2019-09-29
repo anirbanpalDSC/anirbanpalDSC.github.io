@@ -8,6 +8,18 @@
 <br><br><br><br><br><br><br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 ---
+## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
+
+<img  align="left" src="images/viz.jpg" data-canonical-src="images/viz.jpg" width="400" height="230" />This project has sample of creating various charts in both R and Python. For R, the intention is to ultimately create an R package and parameterize those various chart types for ease of use.
+<br><br><br><br><br><br><br>
+#### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
+---
+## [LA Bike Share Model](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
+
+<img src="images/Metro Bike Share.png" data-canonical-src="images/Metro Bike Share.png" width="400" height="120" />
+
+#### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
+---
 ## [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
 
 <img align="left" src="images/Movie.jpg" data-canonical-src="Images/BigMart.jpg" width="400" height="200" />This is a recommendation engine that suggests movies to an user, based on the selections the user has done before.
@@ -38,18 +50,6 @@
 <img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is a sample of performing step by step EDA on the FIFA data.
 <br><br><br><br><br><br><br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
----
-## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
-
-<img  align="left" src="images/viz.jpg" data-canonical-src="images/viz.jpg" width="400" height="230" />This project has sample of creating various charts in both R and Python. For R, the intention is to ultimately create an R package and parameterize those various chart types for ease of use.
-<br><br><br><br><br><br><br>
-#### [Repository Link](https://github.com/anirbanpalDSC/Data-Visualizations/)
----
-## [LA Bike Share Model](https://anirbanpaldsc.github.io/LA-Bike-Share-Predictive-Model-DSC630/)
-
-<img src="images/Metro Bike Share.png" data-canonical-src="images/Metro Bike Share.png" width="400" height="120" />
-
-#### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
