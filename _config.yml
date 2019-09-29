@@ -7,9 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/anirban-pal"><img src="images/linkedin.png" data-canonical-src="images/linkedin.png" width="75" height="75" /></a>
   <a href="https://github.com/anirbanpalDSC"><img src="images/Github.png" data-canonical-src="images/Github.png" width="75" height="75" /></a>
-  <a href="mailto:anirbanpal.wbut@gmail.com"><img src="images/Email.png" data-canonical-src="images/Email.png" width="75" height="75" /></a>
   <br>
-  anirbanpal.wbut@gmail.com
+  [anirbanpal.wbut@gmail.com](anirbanpal.wbut@gmail.com)
  
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
