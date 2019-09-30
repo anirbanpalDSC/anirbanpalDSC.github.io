@@ -21,7 +21,7 @@
 <img src="images/Metro Bike Share.png" data-canonical-src="images/Metro Bike Share.png" width="400" height="120" />
 
 #### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
-<br><br><br>
+<br>
 ---
 ## [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
 
@@ -56,6 +56,7 @@
 <img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is a sample of performing step by step EDA on the FIFA data.
 <br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
+<br><br>
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
