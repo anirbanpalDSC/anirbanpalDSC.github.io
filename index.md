@@ -23,6 +23,7 @@
 #### [Repository Link](https://github.com/anirbanpalDSC/LA-Bike-Share-Predictive-Model-DSC630/)
 <br>
 ---
+
 ## [Movie Recomendation Engine](https://anirbanpaldsc.github.io/Movie-Recommendation-Engine/)
 
 <img align="left" src="images/Movie.jpg" data-canonical-src="Images/BigMart.jpg" width="400" height="200" />This is a recommendation engine that suggests movies to an user, based on the selections the user has done before.
@@ -42,7 +43,7 @@
 <img align="left" src="images/Bullet graph.png" data-canonical-src="images/Bullet graph.png" width="400" height="200" /> A function that primarily uses `ggplot` package in R to produce bullet chart, which is an important graph type but natively not avialble in any of the graphing packages.
 <br>
 #### [Repository Link](https://github.com/anirbanpalDSC/R-Bullet-Chart-using-ggplot)
-<br><br><br>
+<br><br><br><br>
 ---
 ## [Neural Network Classifier](https://anirbanpaldsc.github.io/Neural-Network-Classifier/)
 
