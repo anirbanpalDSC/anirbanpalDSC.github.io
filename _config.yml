@@ -1,12 +1,14 @@
 title: Anirban Pal
 logo: # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  #### About me
+  About Me:
   <br>
   Data is fun. I love playing with data. I transitioned into Analytics and Data Science from a Business Intelligence background. 
   Naturally, visual story telling and creating actionable insights from raw data were my interest. As I learned Machine Learning and advanced analytics, 
   I felt the need for a git existence for all my side projects. This page serves the purpose.
   <br><br>
+  Contact:
+  <br>
   <a href="https://www.linkedin.com/in/anirban-pal"><img src="images/linkedin.png" data-canonical-src="images/linkedin.png" width="75" height="75" /></a>
   <a href="https://github.com/anirbanpalDSC"><img src="images/Github.png" data-canonical-src="images/Github.png" width="75" height="75" /></a>
   <a href="mailto:anirbanpal.wbut@gmail.com"><img src="images/Email.png" data-canonical-src="images/Email.png" width="75" height="75" /></a>  
