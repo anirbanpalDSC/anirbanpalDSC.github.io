@@ -56,7 +56,7 @@
 <img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is a sample of performing step by step EDA on the FIFA data.
 <br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
-<br><br><br>
+<br><br><br><br>
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
