@@ -1,13 +1,18 @@
 ## Portfolio
 
 ---
-
 ## [Bigmart Product Sales Prediction](https://anirbanpaldsc.github.io/Bigmart-Product-Sales-Prediction/)
 
 <img align="left" src="images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="200" height="200" /> This project relates to retail domain and basically is a machine learning model to find out factors significant for product sales.
 <br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 <br><br><br>
+---
+## [Fifa 2019 Advanced Analytics](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
+
+<img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is about answering questions using the Fifa 2019 player stats and data. The questions involve basic exploratory data analysis, advanced analytics (e.g. Are players priced judiciously, How does age distribusion relates to player's potential, Can we predict a player’s potential based on his skill set, etc.) as well as predictions such as predicting the Value of a player based on its attributes (like accuracy, shot power, reactions, dribbling etc.), predicting player's position based on the skill ratings.
+#### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
+<br><br><br><br>
 ---
 ## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
 
@@ -51,13 +56,6 @@
 <br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Neural-Network-Classifier/)
 <br><br><br>
----
-## [Fifa 2019 EDA](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
-
-<img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is a sample of performing step by step EDA on the FIFA data.
-<br>
-#### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
-<br><br><br><br>
 ---
 ## [connectR](https://anirbanpaldsc.github.io/connectR/)
 
