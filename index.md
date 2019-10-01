@@ -8,10 +8,10 @@
 #### [Repository Link](https://github.com/anirbanpalDSC/Bigmart-Product-Sales-Prediction)
 <br><br><br>
 ---
-## [Fifa 2019 Advanced Analytics](https://anirbanpaldsc.github.io/Fifa-2019-EDA/)
+## [Hotel Recommendation](https://anirbanpaldsc.github.io/Hotel-Recommendation/)
 
-<img align="left" src="images/FIFA.jpg" data-canonical-src="images/FIFA.jpg" width="250" height="200" />The project is about answering questions using the Fifa 2019 player stats and data. The questions involve basic exploratory data analysis, advanced analytics (e.g. Are players priced judiciously, How does age distribusion relates to player's potential, Can we predict a player’s potential based on his skill set, etc.) as well as predictions such as predicting the Value of a player based on its attributes (like accuracy, shot power, reactions, dribbling etc.), predicting player's position based on the skill ratings.
-#### [Repository Link](https://github.com/anirbanpalDSC/Fifa-2019-EDA/)
+<img align="left" src="images/hotel.png" data-canonical-src="images/hotel.png" width="150" height="300" />All online travel agencies are scrambling to meet the Artificial Intelligence driven personalization standard set by Amazon and Netflix. In addition, the world of online travel has become a highly competitive space where brands try to capture our attention (and wallet) with recommending, comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book. For this assignment, you need to predict which “hotel cluster” the user is likely to book, given his (or her) search details.
+#### [Repository Link](https://github.com/anirbanpalDSC/Hotel-Recommendation)
 <br><br><br><br>
 ---
 ## [Data Visualization](https://anirbanpaldsc.github.io/Data-Visualizations/)
