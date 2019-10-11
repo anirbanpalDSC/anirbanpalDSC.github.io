@@ -47,7 +47,7 @@ __The project is still in progress.__
 Using the player stats and data, the project intends to do exploration of facts and questions like player rating and skills, strength of a team at a particular position, player pricing, predicting the Value of a player based on his attributes, and predicting players position using the skill ratings.
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa2019-Analysis-and-Modelling)
-<br><br><br>
+<br><br>
 ---
 
 ## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
