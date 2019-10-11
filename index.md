@@ -41,6 +41,15 @@ __The project is still in progress.__
 #### [Repository Link](https://github.com/anirbanpalDSC/Movie-Recommendation-Engine)
 <br><br><br>
 ---
+## [Fifa 2019 Analysis and Modelling](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
+
+<img align="left" src="images/FIFA.jpg" data-canonical-src="images/Flight delay.png" width="200" height="200" />The Fédération Internationale de Football Association or FIFA is a non-profit organization which describes itself as an international governing body of association football, fútsal, beach soccer, and efootball. It is the highest governing body of football. 
+Using the player stats and data, the project intends to do exploration of facts and questions like player rating and skills, strength of a team at a particular position, player pricing, predicting the Value of a player based on his attributes, and predicting players position using the skill ratings.
+
+#### [Repository Link](https://github.com/anirbanpalDSC/Fifa2019-Analysis-and-Modelling)
+<br><br><br>
+---
+
 ## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
 
 <img align="left" src="images/Flight delay.png" data-canonical-src="images/Flight delay.png" width="200" height="200" />A machine learning model that predicts the status of a flight (delay/on-time) based on supervised learning using past flight, airport and weather informatrion.
