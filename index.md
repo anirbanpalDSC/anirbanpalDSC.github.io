@@ -44,7 +44,7 @@ __The project is still in progress.__
 ## [Fifa 2019 Analysis and Modelling](https://anirbanpaldsc.github.io/Fifa2019-Analysis-and-Modelling/)
 
 <img align="left" src="images/FIFA.jpg" data-canonical-src="images/Flight delay.png" width="200" height="200" />The Fédération Internationale de Football Association or FIFA is a non-profit organization which describes itself as an international governing body of association football, fútsal, beach soccer, and efootball. It is the highest governing body of football. 
-Using the player stats and data, the project intends to do exploration of facts and questions like player rating and skills, strength of a team at a particular position, player pricing, predicting the Value of a player based on his attributes, and predicting players position using the skill ratings.
+Using the player stats and data, the project intends to do exploration of facts and questions like player rating and skills, strength of a team at a particular position, player pricing, predicting the Value of a player based on his attributes, and predicting players position using the skill ratings. 
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Fifa2019-Analysis-and-Modelling)
 <br><br>
