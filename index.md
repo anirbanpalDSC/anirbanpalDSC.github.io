@@ -84,13 +84,13 @@ __The project is being tested locally.__
 
 #### [Repository Link](https://github.com/anirbanpalDSC/connectR/)
 ---
-## [Exploratory-Data-Analysis](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis-DSC530/)
+## [Exploratory-Data-Analysis](https://anirbanpaldsc.github.io/Exploratory-Data-Analysis/)
 
-<img src="images/EDA.png" data-canonical-src="images/EDA.png" width="200" height="200" />
+<img src="images/EDA.png" data-canonical-src="images/EDA.png" width="200" height="200" /> This project is demostration of end to end exploratory data analysis. The steps comprise Data Acquisition, Data Cleansing, Data Transformation, Basic Visualization and Data Analysis.
 
 __The project is being tested locally.__
 
-#### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis-DSC530/)
+#### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis/blob/master/README.md)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
