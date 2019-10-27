@@ -88,7 +88,7 @@ __The project is being tested locally.__
 
 <img src="images/EDA.png" data-canonical-src="images/EDA.png" width="200" height="200" />This project is demostration of end to end exploratory data analysis. The steps comprise Data Acquisition, Data Cleansing, Data Transformation, Basic Visualization and Data Analysis.
 
-#### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis/blob/master/README.md)
+#### [Repository Link](https://github.com/anirbanpalDSC/Exploratory-Data-Analysis)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
