@@ -50,14 +50,14 @@ Using the player stats and data, the project intends to do exploration of facts 
 <br><br>
 ---
 
-## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Webscraping-in-Python/)
+## [Webscraping in Python](https://anirbanpaldsc.github.io/Webscraping-in-Python/)
 
 <img align="left" src="images/WebScraping.JPG" data-canonical-src="images/WebScraping.JPG" width="520" height="150" />In this program, I am collecting wether data for my current location from weather.gov. Then I am putting it in a pandas data frame, doing basic clean up and doing some analysis on the data.
 
-<br>
 #### [Repository Link](https://github.com/anirbanpalDSC/Webscraping-in-Python)
-<br><br><br>
+<br><br>
 ---
+
 ## [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
 
 <img align="left" src="images/Bullet graph.png" data-canonical-src="images/Bullet graph.png" width="400" height="200" /> A function that primarily uses `ggplot` package in R to produce bullet chart, which is an important graph type but natively not avialble in any of the graphing packages.
