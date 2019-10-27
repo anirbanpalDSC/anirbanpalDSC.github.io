@@ -50,13 +50,12 @@ Using the player stats and data, the project intends to do exploration of facts 
 <br><br>
 ---
 
-## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Flight-Delay-Prediction/)
+## [Flight Delay Prediction](https://anirbanpaldsc.github.io/Webscraping-in-Python/)
 
-<img align="left" src="images/Flight delay.png" data-canonical-src="images/Flight delay.png" width="200" height="200" />A machine learning model that predicts the status of a flight (delay/on-time) based on supervised learning using past flight, airport and weather informatrion.
+<img align="left" src="images/WebScraping.JPG" data-canonical-src="images/WebScraping.JPG" width="520" height="150" />In this program, I am collecting wether data for my current location from weather.gov. Then I am putting it in a pandas data frame, doing basic clean up and doing some analysis on the data.
 
-__The project is still in progress.__
 <br>
-#### [Repository Link](https://github.com/anirbanpalDSC/Flight-Delay-Prediction)
+#### [Repository Link](https://github.com/anirbanpalDSC/Webscraping-in-Python)
 <br><br><br>
 ---
 ## [R Bullet Chart](https://anirbanpaldsc.github.io/R-Bullet-Chart-using-ggplot/)
