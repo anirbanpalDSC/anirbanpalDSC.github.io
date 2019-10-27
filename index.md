@@ -52,7 +52,7 @@ Using the player stats and data, the project intends to do exploration of facts 
 
 ## [Webscraping in Python](https://anirbanpaldsc.github.io/Webscraping-in-Python/)
 
-<img align="left" src="images/WebScraping.JPG" data-canonical-src="images/WebScraping.JPG" width="520" height="150" />In this program, I am collecting wether data for my current location from weather.gov. Then I am putting it in a pandas data frame, doing basic clean up and doing some analysis on the data.
+<img align="left" src="images/WebScraping.jpg" data-canonical-src="images/WebScraping.jpg" width="520" height="150" />In this program, I am collecting wether data for my current location from weather.gov. Then I am putting it in a pandas data frame, doing basic clean up and doing some analysis on the data.
 
 #### [Repository Link](https://github.com/anirbanpalDSC/Webscraping-in-Python)
 <br><br>
